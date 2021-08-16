@@ -1,2 +1,4 @@
-# MNIST-dataset-ensemble-learning-vote-classifier-stacking-ensemble-
-using different types of ensemble learning (vote classifier , stacking ensemble ) on MNIST dataset
+# ensemble learning on MNIST dataset
+using different types of ensemble learning on MNIST dataset :
+1. vote classifier
+2. stacking ensemble
